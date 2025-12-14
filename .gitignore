@@ -1,0 +1,24 @@
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+*.ino.cpp
+
+
+# PlatformIO
+.pio/
+
+
+# VS Code
+.vscode/
+*.log
+
+
+# Build outputs
+build/
+cmake-build-*/
+
+
+# Temporary
+*.tmp
+*.bak
